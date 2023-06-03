@@ -1,0 +1,29 @@
+ <style>
+    /* CSS */
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+
+    .container {
+      max-width: 600px;
+      margin: 0 auto;
+      padding: 20px;
+    }
+
+    h1 {
+      text-align: center;
+    }
+
+    p {
+      line-height: 1.5;
+    }
+
+    /* Media Query for Mobile Devices */
+    @media (max-width: 600px) {
+      h1 {
+        font-size: 24px;
+      }
+    }
+  </style>
